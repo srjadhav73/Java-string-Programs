@@ -28,19 +28,5 @@ public class RemoveDuplicateArrayUsingJava8 {
         System.out.println("String With without duplicate--->"+resultStr);
 
     }
-//    public static String removeDuplicateString(String inputstr)
-//    {
-//        System.out.println("Call Remove Duplicated String Method");
-//        LinkedHashSet <Character> newCharacter=new LinkedHashSet<>();
-//        for(char c: inputstr.toCharArray())
-//        {
-//            newCharacter.add(c);
-//        }
-//        StringBuilder sb=new StringBuilder();
-//        for(Character res : newCharacter)
-//        {
-//            sb.append(res);
-//        }
-//        return sb.toString();
-//    }
+
 }

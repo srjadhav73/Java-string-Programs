@@ -15,7 +15,7 @@ public class AnagramProgram {
 		}else
 		{
 			char c1 [] = str1.toLowerCase().toCharArray();
-			char[] c2 = str2.toLowerCase().toCharArray(); 
+			char c2 [] = str2.toLowerCase().toCharArray(); 
 			Arrays.sort(c1);
 			Arrays.sort(c2);
 			
